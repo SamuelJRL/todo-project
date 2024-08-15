@@ -1,7 +1,7 @@
 Descrição
 Este é um projeto simples de lista de tarefas (todo list) criado com JavaScript e React. A aplicação permite que você adicione, marque e remova tarefas.
 
-Funcionalidades
+<i>Funcionalidades</i>
 Adicionar Tarefas: Insira novas tarefas na lista.
 Marcar Tarefas como Concluídas: Marque as tarefas como feitas, com a opção de riscar o texto.
 Remover Tarefas Concluídas: Exclua as tarefas que foram marcadas como concluídas.
