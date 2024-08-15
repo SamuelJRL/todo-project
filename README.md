@@ -9,5 +9,7 @@ Remover Tarefas Concluídas: Exclua as tarefas que foram marcadas como concluíd
 <hr>
 Objetivo:
 O projeto foi desenvolvido para praticar e melhorar minhas habilidades em JavaScript e React. Ele me ajudou a aprender mais sobre manipulação de estado, gerenciamento de listas e criação de interfaces responsivas.
+<hr>
+<br>
 
 ![todophoto](https://github.com/user-attachments/assets/f792d8e5-7385-4c04-ba79-bba19ab36e50)
